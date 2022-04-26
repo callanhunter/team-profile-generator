@@ -1,7 +1,8 @@
-describe("employee class", () => {
-    describe("", () => {
-        it("", () => {
+describe("Employee class", () => {
+    describe("Initilization", () => {
+        it("should include ", () => {
 
         })
     })
 })
+
