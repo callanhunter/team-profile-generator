@@ -34,7 +34,7 @@ const managerQuestions = [
     name: "teammemberswitch",
     choices: [
       "Engineer",
-      "Employee",
+      "Manager",
       "Intern",
       "I dont want to add anymore team members",
     ],
@@ -68,7 +68,7 @@ const engineerQuestions = [
     name: "teammemberswitch",
     choices: [
       "Engineer",
-      "Employee",
+      "Manager",
       "Intern",
       "I dont want to add anymore team members",
     ],
